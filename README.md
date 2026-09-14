@@ -5,3 +5,6 @@ first commit image
 
 local merge image
 <img width="1278" height="358" alt="image" src="https://github.com/user-attachments/assets/518a0c6c-5e6d-49fe-b503-837e87ddc9b0" />
+
+resolved merge conflict merge image
+<img width="1426" height="1248" alt="image" src="https://github.com/user-attachments/assets/0c691812-38d7-46b5-b0d7-59650c144720" />
